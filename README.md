@@ -1,3 +1,6 @@
+### 2 POINTS
+### KEY: Great job. See Python source for comments
+
 # Python Review: Functions Classwork
 
 ### Problem 1:
